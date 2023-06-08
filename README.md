@@ -5,3 +5,8 @@
 
 <!-- --------------------------------------------------- -->
 
+## Programs
+
+* [Digit Classification on Mnist Dataset](https://github.com/004Ajay/Deep-Learning/blob/main/mnist.ipynb)
+
+* [Image Classification on CIFAR Dataset](https://github.com/004Ajay/Deep-Learning/blob/main/CIFAR.ipynb)
